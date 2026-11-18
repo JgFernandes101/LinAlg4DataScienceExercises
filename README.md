@@ -1,16 +1,5 @@
-# LinAlg4DataScienceExercises
+# Practical Linear Algebra for Data Science Exercises
 
-# Practical Linear Algebra for Data Science — Exercises
+This repository contains my Python and NumPy implementations for the end-of-chapter exercises from the book **Practical Linear Algebra for Data Science: From Core Concepts to Applications Using Python** (O'Reilly Media)
 
-Python implementations and solutions to the exercises from **Practical Linear Algebra for Data Science** (O'Reilly Media) by Mike X Cohen.
-
-## Notebooks
-
-- `ch02_vectors_part1.ipynb` — Vectors, Part 1
-
-## Setup
-
-```bash
-git clone [https://github.com/JgFernandes101/LinAlg4DataScienceExercises.git](https://github.com/JgFernandes101/LinAlg4DataScienceExercises.git)
-cd LinAlg4DataScienceExercises
-pip install numpy matplotlib scipy jupyterlab
+Each folder corresponds to a chapter of the book and includes the notebooks with my solutions, visualizations, and code experiments.
